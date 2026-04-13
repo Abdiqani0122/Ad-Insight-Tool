@@ -1,14 +1,7 @@
-# AI Insight Tool
+# Ad Insight Tool
+Dette er en enkel MVP/Demo
 
-This is a simple MVP built as part of a case for Moodgruppen.
-
-## Features
-
-- Input 3 ads + CTR
-- Compares top vs low performing ads
-- Uses AI to extract patterns and insights
-
-## Run locally
-
-pip install -r requirements.txt
-streamlit run app.py
+## Funksjoner
+- Tar inn 3 annonser + CTR
+- Sammenligner annonser som presterer bra mot de som presterer dårlig
+- Bruker AI til å identifisere mønstre og hente ut innsikt
